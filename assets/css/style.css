@@ -550,7 +550,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #263d4d;
+  color: #002d52;
 }
 
 /*--------------------------------------------------------------
@@ -569,7 +569,7 @@ section {
 .about .count-box i {
   display: block;
   font-size: 48px;
-  color: #a1bdd1;
+  color: #018dff;
   float: left;
   line-height: 0;
 }
@@ -943,7 +943,7 @@ section {
 
 .services .icon-box i {
   float: left;
-  color: #5c8eb0;
+  color: #018dff;
   font-size: 40px;
   line-height: 0;
 }
@@ -956,7 +956,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #365870;
+  color: #018dff;
   transition: 0.3s;
 }
 
@@ -1280,7 +1280,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #7fa5c0;
+  background: #ed0617;
   bottom: 0;
   left: 0;
 }
@@ -1299,7 +1299,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #ed0617;
+  color: #018dff;
 }
 
 .team .member .social a:hover {
